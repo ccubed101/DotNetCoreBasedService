@@ -1,0 +1,4 @@
+jobs:
+- job: One
+  steps:
+  - script: echo First step!
